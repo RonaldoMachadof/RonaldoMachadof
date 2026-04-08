@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RonaldoMachadof
+- 👋 Hi, I’m Ronaldo Machado
 - 👀 I’m interested in Programming in general
 - 🌱 I’m currently learning Python
 - 📫 How to reach me for email = ronaldo19-machado@outlook.com
